@@ -1,0 +1,11 @@
+{
+  "name": "sexyback",
+  "version": "1.0.0",
+  "description": "bring sexy error passing callback style to ugly callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "license": "ISC"
+}
