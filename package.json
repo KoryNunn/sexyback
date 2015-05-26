@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/KoryNunn/sexyback/issues"
   },
-  "homepage": "https://github.com/KoryNunn/sexyback#readme"
+  "homepage": "https://github.com/KoryNunn/sexyback#readme",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "errback": "^1.0.0"
+  }
 }
